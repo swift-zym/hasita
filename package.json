@@ -1,0 +1,22 @@
+{
+  "name": "hasita",
+  "version": "1.0.0",
+  "description": "hasita complier by node.js",
+  "main": "hasita.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swift-zym/hasita.git"
+  },
+  "keywords": [
+    "hasita"
+  ],
+  "author": "swift-zym",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swift-zym/hasita/issues"
+  },
+  "homepage": "https://github.com/swift-zym/hasita#readme"
+}
