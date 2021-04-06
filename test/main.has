@@ -1,0 +1,4 @@
+START 4
+CV a b 1 c 
+SYSTEM FLUSH c
+END
